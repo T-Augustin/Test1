@@ -15,3 +15,6 @@ This is a test
 But This is another test
 
 And this is another one
+
+This is a branch test
+
